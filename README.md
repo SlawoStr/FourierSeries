@@ -13,4 +13,4 @@ M - Change mode (stable version / wave version )
 C - clear  
 
 Wave version:    
-![Animation](https://github.com/SlawekSt/FourierSeries/blob/main/Wave.gif)
+![Animation](https://github.com/SlawoStr/FourierSeries/blob/master/Wave.gif)
